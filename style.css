@@ -55,7 +55,7 @@ main{
 
 form{
     width: 400px;
-    height: 750px;
+    height: 800px;
     margin: auto;
     text-align: left;
     background-color: black;
@@ -154,5 +154,21 @@ form select option{
 
 }
 
+
+
+.btn-reset{
+    margin-top: 20px;
+}
+
+.btn-reset button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(230, 138, 19);
+    border-radius: 10px;
+    border: 0px;
+    font-weight: bold;
+    color: white;
+
+}
 
 
