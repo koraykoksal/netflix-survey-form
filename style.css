@@ -43,6 +43,7 @@ img{
 header p{
     color: white;
     font-size: 18px;
+    display: block;
     
 
 }
@@ -53,11 +54,12 @@ main{
 
 form{
     width: 400px;
-    height: 700px;
+    height: 750px;
     margin: auto;
     text-align: left;
     background-color: black;
     padding: 30px;
+    display: block;
     
 }
 
@@ -122,4 +124,32 @@ form select option{
     text-align: left;
     height: 18px;
 }
+
+.feedback{
+    text-align: left;
+    margin-top: 20px;
+}
+.feedback textarea{
+    border-radius: 5px;
+    text-align: left;
+    width: 100%;
+}
+
+
+.btn{
+    margin-top: 20px;
+}
+
+.btn button{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border-radius: 10px;
+    border: 0px;
+    font-weight: bold;
+    color: white;
+
+}
+
+
 
