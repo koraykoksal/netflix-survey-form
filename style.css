@@ -1,0 +1,125 @@
+*{
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-box{
+    width: 1050px;
+    height: 1000px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    border: 1px solid red;
+}
+
+body{
+    background-image: url(img/background_image.jpg);
+}
+header{
+    margin-top: 30px;
+}
+
+h1{
+
+    color: white;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+.flix_text{
+    color: #DB202C;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+img{
+    width: 100%;
+}
+
+header p{
+    color: white;
+    font-size: 18px;
+    
+
+}
+
+main{
+    margin-top: 50px;
+}
+
+form{
+    width: 400px;
+    height: 700px;
+    margin: auto;
+    text-align: left;
+    background-color: black;
+    padding: 30px;
+    
+}
+
+form label{
+
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+form input,select{
+
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+form select option{
+
+    text-align: left;
+}
+
+.movie{
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+
+.movie-type  label{
+    font-size: 15px;
+    
+}
+.movie-type input{
+    width: 20px;
+    height: 13px;
+    
+}
+
+.movie-type ul li{
+    text-align: left;
+    height: 18px;
+}
+
+
+.gender{
+    text-align: left;
+}
+.gender-type  label{
+    font-size: 15px;
+    
+}
+.gender-type input{
+    width: 20px;
+    height: 13px;
+    
+}
+
+.gender-type ul li{
+    text-align: left;
+    height: 18px;
+}
+
