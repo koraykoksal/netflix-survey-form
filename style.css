@@ -58,7 +58,7 @@ form{
     height: 800px;
     margin: auto;
     text-align: left;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.8);;
     padding: 30px;
     display: block;
     
